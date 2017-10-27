@@ -12,11 +12,5 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-
-
-
-
-        //dfvjidfnvdfjefoisjfsfhjwdfi
-    }
+//سيبةهسحيبتنحبخنسبحسخينبسةحيخبنسيبحخسينبحسخيبنسيحخبسنيبكس؛ميبنس؛يكبميشكب؛مسيبكم    }
 }
